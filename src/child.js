@@ -102,7 +102,7 @@ function Child() {
                 </form>
             </section>
             <footer className="ftr">Designed and Developed by
-        <a rel="author" href="https://upshotfirm.com/" target="_blank"> Wasif Ahmed - Upshot Firm</a>.</footer>
+        <a rel="noreferrer" href="https://upshotfirm.com/" target="_blank"> Wasif Ahmed - Upshot Firm</a>.</footer>
         </div>        
     )
 }
