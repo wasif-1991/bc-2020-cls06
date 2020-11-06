@@ -38,7 +38,8 @@ function Child() {
     return(
         <div className="container">
             <section className="usflogo">
-                <img src="https://upshotfirm.com/wp-content/uploads/2017/02/upshotfirm_logo.png"/>
+                <img src="https://upshotfirm.com/wp-content/uploads/2017/02/upshotfirm_logo.png"
+                alt="UpshotFirm Logo"/>
                 <hr/>                
             </section>
 
@@ -101,7 +102,7 @@ function Child() {
                 </form>
             </section>
             <footer className="ftr">Designed and Developed by
-        <a href="https://upshotfirm.com/" target="_blank"> Wasif Ahmed - Upshot Firm</a>.</footer>
+        <a rel="author" href="https://upshotfirm.com/" target="_blank"> Wasif Ahmed - Upshot Firm</a>.</footer>
         </div>        
     )
 }
